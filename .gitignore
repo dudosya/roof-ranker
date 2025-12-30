@@ -8,8 +8,7 @@ __pycache__/
 
 
 # SAM model weights (large files, auto-downloaded)
-src/weights/
-*.pth
+src/weights/*.pth
 *.pth.*
 
 
