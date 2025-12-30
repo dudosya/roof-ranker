@@ -6,7 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
-spec.md
+
+# SAM model weights (large files, auto-downloaded)
+src/weights/
+*.pth
+*.pth.*
+
 
 # Distribution / packaging
 .Python
